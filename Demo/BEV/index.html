@@ -526,6 +526,17 @@
 
 
 <h1 id="bev-multi-tasking-visual-perception-system">BEV Multi-tasking visual perception system</h1>
+<p>自主侧视感知软件（内部代号：UTP:TM3）的最新研发版本<base_track_map_que3>
+该版本为融合3帧数据，进行障碍物和局部道路的检测和跟踪，最新版本具备基本的侧视感知功能
+训练情况：40万帧标注， 4卡GPU训练28天14小时，权重约700M
+推理情况：
+输入：6路摄像头+车身IMU
+输出：7类障碍物3D信息，3类车道3D信息
+帧率：5Hz</p>
+<p><img alt="image-20240229152457355" src="../BEV.assets/image-20240229152457355.png" /></p>
+<p><img alt="image-20240229152516515" src="../BEV.assets/image-20240229152516515.png" /></p>
+<p>演示动画：</p>
+<p><img alt="动画9" src="../BEV.assets/%E5%8A%A8%E7%94%BB9.gif" /></p>
 
 
 
