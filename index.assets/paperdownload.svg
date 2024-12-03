@@ -1,0 +1,20 @@
+<svg width="152" height="20" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="cs.CV: arXiv:2111.06677">
+ <title>cs.CV: arXiv:2111.06677</title>
+ <defs>
+  <linearGradient id="s" x2="0" y2="100%">
+   <stop offset="0" stop-color="#bbb" stop-opacity="0.1"/>
+   <stop offset="1" stop-opacity="0.1"/>
+  </linearGradient>
+ </defs>
+ <clipPath id="r">
+  <rect width="152" height="20" rx="3" fill="#fff" id="svg_1"/>
+ </clipPath>
+ <g>
+  <title>Layer 1</title>
+  <g clip-path="url(#r)" id="svg_2">
+   <rect width="41" height="20" fill="#555" id="svg_3"/>
+   <rect x="41" width="111" height="20" fill="#b31b1b" id="svg_4"/>
+   <rect width="152" height="20" fill="url(#s)" id="svg_5"/>
+  </g>
+ </g>
+</svg>
